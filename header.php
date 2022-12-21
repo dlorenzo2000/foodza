@@ -6,7 +6,7 @@
  * Assignment: Final Project
  * Created: Nov 12, 2022
  * Updated: Dec 08, 2022 
- * Purpose: Header found on every page.
+ * Purpose: Header common to all pages.
  *****************************************************************************/
 
     session_start();
